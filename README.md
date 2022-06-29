@@ -69,7 +69,7 @@ Easily start your Reactive RESTful Web Services
 
 
 ## Note
-Another try to trigger the GitOps pipeline.
+Another try to trigger the GitOps pipeline. 2
 
 
 
