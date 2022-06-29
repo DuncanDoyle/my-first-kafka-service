@@ -66,3 +66,10 @@ Use SmallRye Reactive Messaging
 Easily start your Reactive RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+
+
+## Note
+Another try to trigger the GitOps pipeline. 2
+
+
+
