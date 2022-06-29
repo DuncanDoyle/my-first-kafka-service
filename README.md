@@ -69,7 +69,7 @@ Easily start your Reactive RESTful Web Services
 
 
 ## Note
-Trying to build with OpenShift GitOps pipeline.
+Another try to trigger the GitOps pipeline.
 
 
 
